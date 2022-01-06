@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ivanariesr
 - 👀 I’m interested in Cryptocurrency
-- 📬 ETH : 0xa8126112D9996C621c92f58C51090398baf29669
+
+@OSSDAO-ORG•AIRDROP-0xa8126112D9996C621c92f58C51090398baf29669
 
 <!---
 ivanariesr/ivanariesr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
