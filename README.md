@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm @ivanariesr</h1>
-<h3 align="center">A passionate Junior Developer</h3>
 
 <h3 align="left">I'm just currently learning about : </h3>
 <p align="left"> 
